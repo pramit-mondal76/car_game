@@ -1,0 +1,30 @@
+#back{
+    background:url("./img/back.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 500px;
+}
+#road{
+    background:url("./img/road.jpg");
+}
+#pramit{
+    width:300px;
+}
+#dbtn .btn{
+     
+    background-color:rgb(232, 105, 139);
+    
+    font-size:30px;
+    margin-top:30px;
+    border-radius: 1rem;
+    padding:0.5rem 2rem .5rem;
+
+ 
+}
+ #dbtn .btn:hover{
+ 
+    background-color: crimson;
+    cursor: pointer;
+ }
